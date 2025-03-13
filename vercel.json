@@ -1,0 +1,4 @@
+{
+    "rewrites": [{ "source": "/songs/(.*)", "destination": "/songs/$1" }]
+}
+  
